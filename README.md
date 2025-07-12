@@ -96,11 +96,3 @@ but if you're also exploring NumPy and want to share interesting examples, feel 
 **Sara Gorule** – [GitHub](https://github.com/Saragorule13)
 
 Happy learning! 🚀
-
-```
-
----
-
-✅ **Tip:**  
-Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name before saving.  
-```
